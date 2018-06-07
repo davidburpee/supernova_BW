@@ -48,6 +48,6 @@ void draw() {
 }
 
 void keyPressed() {
-  save("supernova_014.tif");
+  save("supernova_015.tif");
   println("screenshot!");
 }
